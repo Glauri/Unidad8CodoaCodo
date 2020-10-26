@@ -1,0 +1,23 @@
+h3{
+	margin-left: 300px; 
+	width: 50%; 
+	margin-top: 100px; 
+	font-size: 30px; 
+	padding-left: 50px;
+}
+
+form{
+	margin-left: 300px; 
+	width: 50%; 
+	margin-top: 20px; 
+	font-size: 30px;"
+}
+
+#lname{
+	margin-left: 25px;
+}
+
+#submit{
+	margin-left: 110px; 
+	box-shadow: 1px 1px 0 0 #7F7F7F;
+}
